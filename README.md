@@ -196,6 +196,7 @@ Commute distance can be used as a potential indicator of customer needs and purc
 **💰 4. Use income as part of customer segmentation**
 
 Income differences between purchasers and non-purchasers could help inform product positioning, promotions and customer targeting.
+
 ---
 
 
