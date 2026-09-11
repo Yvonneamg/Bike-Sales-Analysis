@@ -6,7 +6,7 @@ This project demonstrates an end-to-end **data analysis workflow using Microsoft
 
 The objective was to analyze customer demographic and purchasing data to understand **which customer characteristics and behaviors are associated with bicycle purchases** and present the findings through an interactive Excel dashboard.
 
-The project focuses on demonstrating practical data analyst skills including:
+The project focuses on:
 
 - Data cleaning and preparation
 - Data transformation
@@ -227,13 +227,67 @@ Bike-Sales-Analysis/
 │
 ├── data/
 │   ├── processed/
-│   │   └── Final Dashboard.xlsx
+│   │   └── Bike_Sales_Analysis.xlsx
 │   │
 │   └── raw/
-│       └── Bike Purchases Datasets.xlsx
+│       └── Bike_Purchases_Datasets.xlsx
 │
 ├── Visualization/
 │   └── Dashboard.png
 │
 └── README.md
 ```
+---
+
+# ▶️ How to Run
+
+This project was developed using **Microsoft Excel**. No programming environment or additional software is required beyond Microsoft Excel.
+
+### Option 1: Explore the Final Dashboard
+
+1. Download the Excel workbook from:
+   `data/processed/Bike_Sales_Analysis.xlsx`
+
+2. Open the workbook using **Microsoft Excel**.
+
+3. Navigate to the **Dashboard** worksheet.
+
+4. Use the interactive slicers to explore bike purchasing behavior by:
+   - **Marital Status**
+   - **Region**
+   - **Education**
+
+5. Interact with the charts and filters to explore patterns across different customer segments.
+
+---
+
+### Option 2: Review the Complete Analysis
+
+To explore the analysis process from beginning to end:
+
+1. Open the original dataset located in:
+   `data/raw/Bike_Purchases_Datasets.xlsx`
+
+2. Review the processed dataset and analysis in:
+   `data/processed/Bike_Sales_Analysis.xlsx`
+
+3. Explore the different worksheets to follow the data analysis workflow, including:
+   - Data preparation
+   - Data cleaning
+   - Data transformation
+   - Pivot Tables
+   - Pivot Charts
+   - Dashboard development
+
+4. Open the dashboard to interact with the final visualizations.
+
+---
+
+### 🖼️ Dashboard Preview
+
+A static preview of the final dashboard is available in:
+
+```text
+Visualization/Dashboard.png
+```
+---
